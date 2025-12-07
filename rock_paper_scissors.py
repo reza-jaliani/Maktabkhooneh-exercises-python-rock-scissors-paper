@@ -1,6 +1,6 @@
 #----Import and Global Variables
 import random
-USER_CHOICES = ["rock","scissors","paper"]
+USER_CHOICES = ("rock","scissors","paper")
 
 
 #----Get User Choice
